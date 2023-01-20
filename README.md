@@ -7,7 +7,7 @@ Check out my websites!
 
 https://shorturl.ga (ShortURL service on Cloudflare Workers + KV namespace）
 
-https://vsbm.blockly.gq (Quick way to test your device's performance!)
+https://vsbm.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
 
 https://siteproxy.gq (Free online proxy service hosted on Cloudflare Workers, Supports proxing Github!)
 
