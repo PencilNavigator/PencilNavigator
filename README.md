@@ -5,7 +5,7 @@
 
 Check out my websites!
 
-https://shorturl.ga (ShortURL service on Cloudflare Workers + KV namespace）
+https://shorturl.ga (Quick and lightweight shortURL service on Cloudflare Workers）
 
 https://vsbm.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
 
