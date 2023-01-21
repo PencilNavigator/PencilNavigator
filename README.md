@@ -1,7 +1,7 @@
 ### 你好！ 👋
 # This README.md is UNDER CONSTRUCTION
 
-[![PencilNavigator's GitHub Stats](https://readme-stats-url.999857.xyz/api?username=PencilNavigator&show_icons=true&bg_color=green,A5D44F,7C9F3B&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/PencilNavigator)
+[![PencilNavigator's GitHub Stats](https://readme-stats-url.999857.xyz/api?username=PencilNavigator&show_icons=true&bg_color=green,A5D44F,7C9F3B&title_color=fff&text_color=fff&icon_color=fff)
 
 Check out my websites!
 
