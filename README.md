@@ -9,6 +9,8 @@ https://shorturl.ga (Quick and lightweight shortURL service on Cloudflare Worker
 
 https://vsbm.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
 
+https://atlasos.dev (Download site for [AtlasOS](https://github.com/Atlas-OS/atlas) ISO's!)
+
 https://siteproxy.gq (Free online proxy service hosted on Cloudflare Workers, Supports proxing Github!)
 
 <!--
