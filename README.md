@@ -7,7 +7,7 @@ Check out my websites!
 
 https://shorturl.ga (Quick and lightweight shortURL service on Cloudflare Workers）
 
-https://vsbm.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
+https://vsbench.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
 
 https://atlasos.dev (Download site for [AtlasOS](https://github.com/Atlas-OS/atlas) ISO's!)
 
