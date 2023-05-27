@@ -3,8 +3,6 @@
 
 ![PencilNavigator's GitHub Stats](https://readmestats.999857.xyz/api?username=PencilNavigator&include_all_commits=true&show_icons=true&bg_color=green,A5D44F,7C9F3B&title_color=fff&text_color=fff&icon_color=fff)
 
-![Profile View](https://komarev.com/ghpvc/?username=PencilNavigator&color=green)
-
 Check out my websites!
 
 https://shorturl.ga (Quick and lightweight shortURL service on Cloudflare Workers）
