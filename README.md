@@ -5,8 +5,6 @@
 
 Check out my websites!
 
-https://shorturl.ga (Quick and lightweight shortURL service on Cloudflare Workers）
-
 https://vsbench.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
 
 https://blockly.gq (Basicly https://blockly.games but in chinese with a coding plugin.)
