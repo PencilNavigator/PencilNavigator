@@ -5,13 +5,13 @@
 
 ### Check out my websites!
 
-StrinkURL: https://shrinkurl.ml/, https://stlink.cf/, https://stlink.gq/ （Lightweight and Fast ShortURL service builded with Cloudflare Workers + KV, No SEO text spam, no waiting periods, no trackers!)
+- StrinkURL: https://shrinkurl.ml/, https://stlink.cf/, https://stlink.gq/ （Lightweight and Fast ShortURL service builded with Cloudflare Workers + KV, No SEO text spam, no waiting periods, no trackers!)
 
-VSBench: https://vsbench.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
+- VSBench: https://vsbench.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
 
-Blockly Games: https://blockly.gq (Basicly https://blockly.games but in chinese with a coding plugin.)
+- Blockly Games: https://blockly.gq (Basicly https://blockly.games but in chinese with a coding plugin.)
 
-Atlas Toolbox: https://atlasos.dev (Toolbox site for [AtlasOS](https://github.com/Atlas-OS/atlas)!)
+- Atlas Toolbox: https://atlasos.dev (Toolbox site for [AtlasOS](https://github.com/Atlas-OS/atlas)!)
 
-Siteproxy: https://siteproxy.gq (Free online proxy service build with Cloudflare Workers, Supports proxing Github!)
+- Siteproxy: https://siteproxy.gq (Free online proxy service build with Cloudflare Workers, Supports proxing Github!)
 
