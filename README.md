@@ -5,13 +5,13 @@
 
 ### Check out my Projects!
 
-- StrinkURL: https://shrinkurl.ml/ (Lightweight and Fast ShortURL service builded with Cloudflare Workers + KV, No SEO text spam, no waiting periods, no trackers!)
+- [StrinkURL](https://github.com/PencilNavigator/shrinkurl-workers): https://shrinkurl.ml/ (Lightweight and Fast ShortURL service builded with Cloudflare Workers + KV, No SEO text spam, no waiting periods, no trackers!)
 
-- VSBench: https://vsbench.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
+- [VSBench](https://github.com/PencilNavigator/VSBench): https://vsbench.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
 
-- Blockly Games: https://blockly.gq (Basicly https://blockly.games but in chinese with a coding plugin.)
+- [Blockly Games](https://github.com/PencilNavigator/blockly.gq): https://blockly.gq (Basicly https://blockly.games but in chinese with a coding plugin.)
 
-- Atlas Toolbox: https://atlasos.dev (Toolbox site for [AtlasOS](https://github.com/Atlas-OS/atlas)!)
+- AtlasOS Downloads: https://atlasos.dev (Toolbox site for [AtlasOS](https://github.com/Atlas-OS/atlas)!)
 
 - Siteproxy: https://siteproxy.gq (Free online proxy service build with Cloudflare Workers, Supports proxing Github!)
 
