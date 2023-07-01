@@ -13,5 +13,4 @@
 
 - AtlasOS Downloads: https://atlasos.dev (Toolbox site for [AtlasOS](https://github.com/Atlas-OS/atlas)!)
 
-- Siteproxy: https://siteproxy.gq (Free online proxy service build with Cloudflare Workers, Supports proxing Github!)
 
