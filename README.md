@@ -5,7 +5,7 @@
 
 ### Check out my Projects!
 
-- [StrinkLink](https://github.com/PencilNavigator/shrinkurl-workers): https://stlink.cf/ (Lightweight and Fast ShortURL service builded with Cloudflare Workers + KV, No SEO text spam, no waiting periods, no trackers!)
+- StrinkLink: https://stlink.cf/ (Lightweight and Fast ShortURL service builded with Cloudflare Workers + KV, No SEO text spam, no waiting periods, no trackers!)
 
 - [VSBench](https://github.com/PencilNavigator/VSBench): https://vsbench.blockly.gq (Quick way to test your GPU performance! Supports all device with a Browser!)
 
